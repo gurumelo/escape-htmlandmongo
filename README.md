@@ -46,4 +46,4 @@ console.log(limpito);
 ```
 
 
-Basado en validator js, mongo-sanitize y express-mongo-sanitize
+Basado en validator js, mongo-sanitize y express-mongo-sanitize e intento de aunarlos
