@@ -1,0 +1,28 @@
+{
+  "name": "escape-htmlandmongo",
+  "version": "1.0.0",
+  "description": "Escape html and mongo special characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurumelo/escape-htmlandmongo.git"
+  },
+  "keywords": [
+    "escape",
+    "html",
+    "mongo",
+    "mongoose",
+    "xss",
+    "injection",
+    "sanitize"
+  ],
+  "author": "gurumelo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gurumelo/escape-htmlandmongo/issues"
+  },
+  "homepage": "https://github.com/gurumelo/escape-htmlandmongo#readme"
+}
