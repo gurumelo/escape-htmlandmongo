@@ -8,7 +8,7 @@ And converts to ascii code
 ### Installing
 
 ```
-npm install escape-htmlandmongo
+npm install escape-htmlandmongo --save
 ```
 
 ### Using
@@ -32,7 +32,7 @@ Y los convierte, en vez de descartarlos, a notación ascii html.
 ### Installing
 
 ```
-npm install escape-htmlandmongo
+npm install escape-htmlandmongo --save
 ```
 
 ### Using
