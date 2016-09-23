@@ -16,7 +16,7 @@ npm install escape-htmlandmongo --save
 ```
 var escape = require('escape-htmlandmongo');
 
-var limpito = escape.esc('$ne: <script>alert(1)</script> juanker');
+var limpito = escape.esc('$ne: <script>alert(1)</script> hello');
 
 console.log(limpito);
 ```
@@ -40,7 +40,7 @@ npm install escape-htmlandmongo --save
 ```
 var escape = require('escape-htmlandmongo');
 
-var limpito = escape.esc('$ne: <script>alert(1)</script> juanker');
+var limpito = escape.esc('$ne: <script>alert(1)</script> hola');
 
 console.log(limpito);
 ```
