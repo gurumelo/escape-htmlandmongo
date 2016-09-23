@@ -47,3 +47,6 @@ console.log(limpito);
 
 
 Basado en validator js, mongo-sanitize y express-mongo-sanitize e intento de aunarlos
+
+https://www.npmjs.com/package/escape-htmlandmongo
+https://github.com/gurumelo/escape-htmlandmongo
