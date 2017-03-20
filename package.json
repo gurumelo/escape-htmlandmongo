@@ -1,6 +1,6 @@
 {
   "name": "escape-htmlandmongo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Escape html and mongo special characters",
   "main": "index.js",
   "scripts": {

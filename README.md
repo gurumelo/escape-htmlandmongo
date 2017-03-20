@@ -1,5 +1,5 @@
 ##English version
-This module escapes mongo injections: $ and .
+This module escapes mongo injections: $ . , { } [ ] = |
 
 In the other hand, also escapes for prevent xss injections: & " ' > < / `
 
@@ -23,7 +23,7 @@ console.log(limpito);
 
 
 ##Castillan version
-Este módulo escapa inyecciones mongo, de cadenas que comiencen con: $ y .
+Este módulo escapa inyecciones mongo, de cadenas que comiencen con: $ . , { } [ ] = |
 
 Por otra parte, también escapa caracteres usuales en html, usados para hacer inyecciones xss:  & " ' > < / `
 
